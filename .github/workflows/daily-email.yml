@@ -23,7 +23,7 @@ jobs:
       - name: Send the email / check for reply
         env:
           SENDER_EMAIL: "majmetlicar53@gmail.com"
-          SENDER_PASSWORD: "hkng bhmu yitw mimi"
+          SENDER_PASSWORD: "urax ktoh xohx fmbx"
           RECEIVER_EMAIL: "carterpcs@rakugomedia.com"
           MESSAGE_TEXT: "Hi Carter, I know you're getting a lot of these a day but I just wanted to politely ask you for something. I'm going to Malta for a five-month school internship and I don't have a laptop. I will need to do school work from there — we are doing video and photo editing, and we are also learning to use Blender. I have a PC at home but it's too much to bring with me, so I am asking you for a PC that could handle the work I will be doing while I am away. I go to school in Slovenia; the school is called SERS (Srednja elektro-racunalniska sola) in Maribor — Secondary School of Electrical Engineering and Computer Science. I am trying my best not to use AI for this message. To repeat: I need a laptop powerful enough to run Blender, Premiere Pro, and Photoshop. It would be perfect if it has 32GB of RAM and 1TB of storage. That's all I need. Please, Carter."
           START_DATE: "2026-09-02"
